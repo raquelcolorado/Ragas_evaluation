@@ -6,7 +6,7 @@ This is a preliminary project for evaluating a Retrieval Augmented Generation (R
 
 This functionality aims to evaluate a system that operates as follows:
 
-![Esquema RAG.drawio](Esquema RAG.drawio)
+![Esquema RAG.drawio](https://app.diagrams.net/#Hraquelcolorado%2Fragas_evaluation%2Fmain%2FDiagrama%20sin%20t%C3%ADtulo.drawio)
 
 For more information, please refer to the [RAGAs documentation](https://docs.ragas.io/en/stable/index.html).
 
