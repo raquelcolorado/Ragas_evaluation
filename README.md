@@ -6,7 +6,7 @@ This is a preliminary project for evaluating a Retrieval Augmented Generation (R
 
 This functionality aims to evaluate a system that operates as follows:
 
-![Esquema RAG.png](Esquema RAG.png)
+![Esquema_RAG.png](Esquema_RAG.png)
 
 For more information, please refer to the [RAGAs documentation](https://docs.ragas.io/en/stable/index.html).
 
