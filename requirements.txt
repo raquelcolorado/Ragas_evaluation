@@ -1,0 +1,7 @@
+langchain
+openai
+weaviate-client
+python-dotenv
+unstructured
+langchain
+"unstructured[pdf]"
