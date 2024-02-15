@@ -15,8 +15,9 @@ For more information, please refer to the [RAGAs documentation](https://docs.rag
 To use this project, follow these steps:
 
 1. Clone the repository.
-2. Install the necessary dependencies.
-3. Run the evaluation process.
+2. Install the necessary dependencies using requirements.txt.
+3. Run the evaluation process via Jupyter Notebook.
+4. To properly execute step 3, you should create an .env file with the OpenAI API key credentials and also create a doc/ directory within the project to upload the documents that you want to use for extracting information.
 
 ## Documentation
 
